@@ -1,0 +1,15 @@
+Advance To Go Collect $200, 200
+Sale of Stock Collect $50, 50
+Holiday Fund Matures Collect $100, 100
+Lottery Collect $200, 200
+Bank Error Collect $200, 200
+Winning a Contest Collect $10, 10
+Inheritance Collect $100, 100
+Grand Opera Night Take $50, 50
+Doctor's Fee Pay $50, -50
+Tax Refund Pay $20, -20
+Life Insurance Pay $100, -100
+Hospital Fee Pay $100, -100
+School Fee Pay $100, -100
+Consult Fee Pay $50, -50
+Repair Fee Pay $50, -50

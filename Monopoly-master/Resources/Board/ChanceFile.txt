@@ -1,0 +1,16 @@
+Advance to go./1
+Advance to Fleet Street/2
+Advance to Pall Mall/3
+Advance to next utility./4
+Advance to next railroad and pay owner twice the rental they are entitled/5
+Bank pays you $50 dividend/6
+You gained a get out of jail free card!/7
+Go back 3 spaces/8
+Go to jail/9
+General repairs. Pay $25 for each house and $100 for each hotel/10
+Pay poor tax of $15/11
+Advance to White Chapel Road/12
+Advance to Mayfair/13
+Elected to Chairman of board. Pay each player $50/14
+Your building and loan matures. Collect $150/15
+You have won a crossword competition. Collect $100/16

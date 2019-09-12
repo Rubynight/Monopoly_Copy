@@ -1,0 +1,36 @@
+Property, Old Kent Road, 60, Brown
+CommunityChest
+Property, White Chapel Road, 60, Brown
+Utility, Income Tax, 200
+Railroad, King Cross Station, 200
+Property, The Angel Islington, 100, AliceBlue
+Chance
+Property, Eustion Road, 100, AliceBlue
+Property, Pentonville Road, 120, AliceBlue
+Property, Pall Mall, 140, MediumVioletRed
+Utility, Electric Company
+Property, Whitehall, 140, MediumVioletRed
+Property, Northumrl'd Avenue, 160, MediumVioletRed
+Railroad, Marylebone Station, 200
+Property, Bow Station, 180, Orange
+CommunityChest
+Property, Marlborough Street, 180, Orange
+Property, Vine Street, 200, Orange
+Property, Strand, 220, Red
+Chance
+Property, Fleet Street, 220, Red
+Property, Tranfalgar, 240, Red
+Railroad, Fenchurch St. Station, 200
+Property, Leicester Square, 260, Yellow
+Property, Conventry Street, 260, Yellow
+Utility, Water Works, 150
+Property, Piccadilly, 280, Yellow
+Property, Regent Street, 300, Green
+Property, Oxford Street, 300, Green
+CommunityChest
+Property, Bond Street, 320, Green
+Railroad, Liverpool St. Station, 200
+Chance
+Property, Park Lane, 350, Blue
+Utility, Super Tax, 100
+Property, Mayfair, 400, Blue
